@@ -12,7 +12,7 @@ I previously designed, built and released stompboxes under the Pan Galactic bran
 
 ## Other Github Profiles
 
-[github.com/PanGalacticTech](https://github.com/ImogenWren) - My professional Github profile
+[github.com/ImogenWren](https://github.com/ImogenWren) - My professional Github profile
 
 [github.com/PanGalacticTech](https://github.comn/PanGalacticTech) - Collection of embedded systems and product design projects I work on in my own time, focussed on educational and maker community projects.
 
