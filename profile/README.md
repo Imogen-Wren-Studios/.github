@@ -33,6 +33,7 @@ I previously designed, built and released stompboxes under the **Pan Galactic** 
 - KiCAD
 - AutoDesk Inventor
 - AutoDesk Fusion
+- Logic Pro
 
 ## Outside Interests
 
