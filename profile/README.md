@@ -1,8 +1,15 @@
 ## Hi there 👋
 ## About Me
 
-My Name is Imogen Wren. <br> Pronouns: She/Her. <br>
-Since 2016 I have been blending my love of electronics with my love of music, 
+Name: Imogen Wren. <br>
+Pronouns: She/Her. <br>
+
+Since I started playing guitar at age 14 I have been blending my love of electronics with my love of music. I spent a total of 3 years Studying Music Technology, first at collage, and then for one year at University before dropping out to start work in the Outside Broadcast Industry.
+
+It wasn't untill a few years later that I would rekindle my passion for music, and having gained more direct electronics skills through my work on specialist camera systems, I started building Stompbox Kits (shoutout to https://FuzzDog.co.uk) who got me started down this road. 
+I soon progressed to designing my own PCBs, then introducing microcontrollers and digital embedded systems into my analog audio world. This eventually lead me to my current role as Specialist Technical Officer for Embedded Systems at The University of Edinburgh. So I really have to be thankful for music pushing me towards my dream career, even if it is not directly associated with music any longer!
+
+I currently play Bass in the band "Dear Srrrz" and I am loving the thriving Riot Girl scene here in Edinburgh.
 
 
 ## About Imogen Wren Studios
@@ -22,27 +29,15 @@ I previously designed, built and released stompboxes under the Pan Galactic bran
 
 
 
-
-
-
-## Technology & Music
-
-
-## Most Used Languages
-- C++
-- Python
-- LabVIEW
-- Bash/Linux
-
 ## Software
 - KiCAD
 - AutoDesk Inventor
 - AutoDesk Fusion
 
 ## Outside Interests
-- I Design & Build Guitar FX Stompboxes under the name Imogen Wren Studios (Formally Pan Galactic Fx)
-- I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight [Pan Galactic Tech](https://PanGalacticTech.com)
-- I play Bass for the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
+
+- I host my tech blog where I discuss arduino development, 3D CAD work and also sell a few guitar pedals & PCBs! [Pan Galactic Tech](https://PanGalacticTech.com)
+
 
 ## Social Links
 - [Pan Galactic Tech - Github](https://github.com/PanGalacticTech)
