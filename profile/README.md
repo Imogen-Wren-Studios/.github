@@ -1,8 +1,8 @@
-## Hi there 👋
-## About Me
+# Imogen Wren Studios
 
-Name: Imogen Wren. <br>
-Pronouns: She/Her. <br>
+## About Me
+- Name: Imogen Wren. <br>
+- Pronouns: She/Her. <br>
 
 Since I started playing guitar at age 14 I have been blending my love of electronics with my love of music. I spent a total of 3 years Studying Music Technology, first at collage, and then for one year at University before dropping out to start work in the Outside Broadcast Industry.
 
