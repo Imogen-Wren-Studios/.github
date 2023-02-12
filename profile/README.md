@@ -1,6 +1,8 @@
 ## Hi there 👋
+## About Me
 
-My Name is Imogen Wren. Pronouns: She/Her.
+My Name is Imogen Wren. <br> Pronouns: She/Her. <br>
+Since 2016 I have been blending my love of electronics with my love of music, 
 
 
 ## About Imogen Wren Studios
@@ -10,13 +12,41 @@ This organisation is to collate and collect all of the audio equipment developme
 I previously designed, built and released stompboxes under the Pan Galactic brand, however I have decided to make Pan Galactic a source of educational content regarded technology and embedded systems, and move my more artistic side projects to Imogen Wren Studios.
 
 
+
+
 ## Other Github Profiles
 
-[github.com/ImogenWren](https://github.com/ImogenWren) - My professional Github profile
+- [github.com/ImogenWren](https://github.com/ImogenWren) - My professional Github profile
 
-[github.com/PanGalacticTech](https://github.comn/PanGalacticTech) - Collection of embedded systems and product design projects I work on in my own time, focussed on educational and maker community projects.
+- [Pan Galactic Tech - Github](https://github.com/PanGalacticTech) - Education, Embedded Systems and Maker Community Content 
 
 
+
+
+
+
+## Technology & Music
+
+
+## Most Used Languages
+- C++
+- Python
+- LabVIEW
+- Bash/Linux
+
+## Software
+- KiCAD
+- AutoDesk Inventor
+- AutoDesk Fusion
+
+## Outside Interests
+- I Design & Build Guitar FX Stompboxes under the name Imogen Wren Studios (Formally Pan Galactic Fx)
+- I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight [Pan Galactic Tech](https://PanGalacticTech.com)
+- I play Bass for the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
+
+## Social Links
+- [Pan Galactic Tech - Github](https://github.com/PanGalacticTech)
+- [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
 
 <!--
 
