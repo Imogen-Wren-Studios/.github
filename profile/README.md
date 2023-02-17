@@ -1,5 +1,5 @@
 # Imogen Wren Studios
-![image](https://user-images.githubusercontent.com/97303986/217541153-bb81dce7-f75b-4812-b71a-0afd2077692d.png)
+![image](https://user-images.githubusercontent.com/97303986/219519000-e602483f-cbe2-44bc-8538-487afb8a7b98.png)
 
 This github is mostly used for my audio and artistic projects, for my proffessional work, please see:
 - [ImogenWren - Github](https://github.com/ImogenWren) <br>
